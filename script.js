@@ -18,6 +18,13 @@ const poems = [
     poem: "Roses are red \n Violets are blue \n I’m unoriginal\n this is all I can do",
     image:"fightme.jpg"
   },
+
+  {
+    author: "jimmy",
+    poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
+    image: "bee.jpeg",
+  },
+
   {
     authoer: "Daniel",
     poem: "Roses Are Red, poems are hard",
